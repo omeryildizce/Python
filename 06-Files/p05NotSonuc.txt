@@ -1,0 +1,6 @@
+Ömer YILDIZ:A
+Kadir YILDIZ:B
+Hüseyin Şahin:C
+Ömer YILDIZ:f1
+Kadir YILDIZ:f1
+Hüseyin Şahin:f2

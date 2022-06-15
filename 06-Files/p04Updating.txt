@@ -1,0 +1,46 @@
+Ömer Yıldız
+*****
+Ömer Yıldız
+*****
+Ömer Yıldız
+*****
+Ömer Yıldız
+*****
+Ömer Yıldız
+*****
+Ömer Yıldız
+*****
+yol = "6-Files//p04Updating.py"
+
+with open(yol, "r+", encoding="utf-8") as file:
+    content = file.read()
+    print(content)
+    file.write("\nfor i in range(100):print(i)")
+
+
+with open(yol,"a",encoding="utf-8") as file:
+    
+99999999999999999999999999999999999999999999999999999
+-------------------------------------------------
+for i in range(100):print(i)
+Ömer Yıldız
+for i in range(100):print(i)
+Ömer Yıldız
+for i in range(100):print(i)
+Ömer Yıldız
+for i in range(100):print(i)
+Ömer Yıldız
+for i in range(100):print(i)
+Ömer Yıldız
+for i in range(100):print(i)
+Ömer Yıldız
+for i in range(100):print(i)
+Ömer Yıldız
+for i in range(100):print(i)
+Ömer Yıldız
+for i in range(100):print(i)
+Ömer Yıldız
+for i in range(100):print(i)
+Ömer Yıldız
+for i in range(100):print(i)
+Ömer Yıldız

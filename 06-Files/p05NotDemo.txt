@@ -1,0 +1,6 @@
+Ömer YILDIZ:97,89,90
+Kadir YILDIZ:87,79,80
+Hüseyin Şahin:77,69,70
+Ömer YILDIZ:67,59,50
+Kadir YILDIZ:57,49,60
+Hüseyin Şahin:47,39,30
